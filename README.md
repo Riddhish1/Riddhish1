@@ -7,6 +7,7 @@
 
 I’m Riddhish.
 
-<a href="riddhish.tech"><strong>website</strong></a> | <a href="https://www.linkedin.com/in/riddhish-bonde-13299627b/"><strong>email</strong></a> | <a href="mailto:bonderiddhish@gmail.com"><strong>email</strong></a>
-
+<a href="https://riddhish.tech"><strong>website</strong></a> |
+<a href="https://www.linkedin.com/in/riddhish-bonde-13299627b/"><strong>linkedin</strong></a> |
+<a href="mailto:bonderiddhish@gmail.com"><strong>email</strong></a>
 </samp>
